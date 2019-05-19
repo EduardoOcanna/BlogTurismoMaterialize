@@ -1,4 +1,6 @@
-
+.imagen-logo{
+  max-width: 100%;
+}
 
 .cabecera{
   height: 120px;
@@ -32,14 +34,11 @@ body{
 
 .entrada-blog p{
   text-align: justify;
-
-
 }
 
 
 
 .entrada-blog img{
-
   margin:0.6rem;
   max-width: 70%;
   max-height: 90%;
