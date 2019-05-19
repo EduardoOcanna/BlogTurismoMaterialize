@@ -1,0 +1,57 @@
+
+
+.cabecera{
+  height: 120px;
+}
+
+
+body{
+  background-image: url(../img/fondo.jpg);
+  background-position: 0px 120px, top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #1b5e20;
+
+}
+
+.botones-principal{
+  position: relative;
+  margin-top: 20px;
+}
+
+.iconos-social{
+  max-width: 80px;
+}
+
+.galeria-viajes img{
+
+  width:100%;
+  height:auto;
+}
+
+.entrada-blog p{
+  text-align: justify;
+
+
+}
+
+
+
+.entrada-blog img{
+
+  margin:0.6rem;
+  max-width: 70%;
+  max-height: 90%;
+
+  border: 5px outset white;
+  box-shadow:-2px -2px rgba(0,0,0,0.2);
+}
+
+.perfil-autor img{
+  max-width: 150px;
+}
+.perfil-autor{
+  margin-top: 15px;
+  text-align: center;
+}
